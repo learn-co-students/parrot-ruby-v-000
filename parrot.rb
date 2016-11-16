@@ -2,6 +2,10 @@
 # returns the phrase
 
 
+
 def parrot(phrase="Squawk!")
-  puts "Pretty Bird!, #{phrase}"
+	puts " "
 end
+
+parrot
+parrot("Pretty Bird!")
