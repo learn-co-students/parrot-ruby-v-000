@@ -3,5 +3,5 @@
 
 def parrot(phrase= "Squawk!")
   puts phrase
-  phrase
+  phrase #this is the return value instead of getting nil
 end
