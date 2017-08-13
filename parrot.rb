@@ -11,7 +11,7 @@
 # Remember, return values are important.
 # Ask yourself? what is the return value of #puts?
 
-def parrot(string="Squawk!")
-  puts string
-  string
+def parrot(phrase="Squawk!")
+  puts phrase
+  phrase
 end
