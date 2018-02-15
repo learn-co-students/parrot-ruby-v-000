@@ -3,5 +3,5 @@
 
 def parrot(input="Squawk!")
   puts input
-  input
+  return input
 end
