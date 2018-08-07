@@ -1,8 +1,4 @@
-# Parrot
-
-## Objectives
-1. Define a method that accepts arguments.
-2. Create a default argument.
+default argument.
 3. Practice returning a value.
 
 ##Instructions
